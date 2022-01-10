@@ -2,5 +2,12 @@
 Just a coding practice repository
 
 Questions:
-https://docs.google.com/document/d/1gArkit3S_KXNfl01XSE0HLqpLR2gbh2mJ8ftsxKVd24/edit
+Goldman Sachs:
+https://docs.google.com/document/d/1OqCRExFuLURsVF7RcyZNwW-3YQN-OlfVV_DEc0eBT40/edit?usp=sharing
+
+Amazon:
+https://docs.google.com/document/d/1KujOw5BBbTUlSV4Y_VlOfjP0JMmzrlTd-fGSL_FBhLM/edit?usp=sharing
+
+Microsoft:
+https://docs.google.com/document/d/10jfDZLLplOizt6aplpNBu3ReDfkyeFiq6YteUonOiFE/edit
 
