@@ -15,3 +15,6 @@ https://docs.google.com/document/d/10jfDZLLplOizt6aplpNBu3ReDfkyeFiq6YteUonOiFE/
 Adobe:
 https://docs.google.com/document/d/16ZqlUrczdLqKTMdwyUC3JydBjFKkkOkzCNQzrdKXIso/edit?usp=sharing
 
+Intuit:
+https://docs.google.com/document/d/1fv22RCyD3daW7SLCLYHYWC8sJjC8YZJCJuXDhOsIPYA/edit?usp=sharing
+
