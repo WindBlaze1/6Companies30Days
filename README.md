@@ -18,3 +18,5 @@ https://docs.google.com/document/d/16ZqlUrczdLqKTMdwyUC3JydBjFKkkOkzCNQzrdKXIso/
 Intuit:
 https://docs.google.com/document/d/1fv22RCyD3daW7SLCLYHYWC8sJjC8YZJCJuXDhOsIPYA/edit?usp=sharing
 
+Walmart:
+https://docs.google.com/document/d/1ksrBNhxRrANORFnSe_QO9e6X7ED4U74CXAGMwlW89BU/edit?usp=sharing
